@@ -1,0 +1,39 @@
+# Kali Linux Overview
+## Topics to be covered today
+- Settings (Display etc)
+- Folders
+- Terminal
+  - Settings
+  - Commands
+    - pwd ✅
+    - ls ✅
+      - -a
+      - -A
+    - cd ✅
+      - ..
+      - /
+      - tab button
+    - mkdir ✅
+    - touch ✅
+    - nano ✅
+    - cat ✅
+    - cp ✅
+    - mv ✅
+    - rm, rm -rf ✅
+    - --help, -h ✅
+    - sudo su ✅
+      - exit ✅
+    - apt
+      - update ✅
+      - upgrade ✅
+      - install ✅
+      - search ✅
+    - ifconfig (ipconfig on windows) ✅
+    - passwd ✅
+    - clear ✅
+- Permissions
+  - root user
+  - using root file manager
+- Package manager
+  - apt
+  - yum
