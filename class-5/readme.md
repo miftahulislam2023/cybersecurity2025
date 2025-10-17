@@ -1,4 +1,4 @@
-# Class 5 - DNS, VPN, DARK WEB, TOR BROWSER
+# Class 5 - DNS, VPN
 
 ## DNS - Domain Name Server
 - Domain Name
